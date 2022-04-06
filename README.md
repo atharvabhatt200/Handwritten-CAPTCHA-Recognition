@@ -28,4 +28,9 @@ Laugh: 5
 Smile: 6  
 Sun: 7  
 
+## Dataset
+#### Emoji Dataset https://drive.google.com/drive/folders/1sw0XVroXFhJoNAJVj40qE7ZOPSBzve7u
+#### Letter Dataset (Using EMNIST Balanced Dataset) https://drive.google.com/file/d/1zqHDRk942mVPFyaPndhr77mescbP8ODw/view?usp=sharing
+#### Combined Dataset https://drive.google.com/file/d/1NYZfpRT-KO3waOiIyZMBZ26vduPR2Z2F/view?usp=sharing
 
+### *Note: Some sample test captchas have been added to the TEST_CAPTCHAS.*
