@@ -1,10 +1,5 @@
-# Mosaic - Udyam '22, Problem Statement 1
+# Handwritten Captcha Recognition
    
-## Team - Chaos 
-- Atharva Bhatt (Team Leader)
-- Ayush Gangwani  
-- Dhruv Agarwal  
-
 ## Steps to test the model:
 1. Put the testing images in TESTING_CAPTCHAS Folder.
 2. Run main.py file.
