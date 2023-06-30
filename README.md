@@ -29,3 +29,5 @@ Sun: 7
 #### Combined Dataset https://drive.google.com/file/d/1NYZfpRT-KO3waOiIyZMBZ26vduPR2Z2F/view?usp=sharing
 
 ### *Note: Some sample test captchas have been added to the TEST_CAPTCHAS.*
+
+[Link](https://drive.google.com/file/d/1j4B2zP8dbGFlilIbV7E3XReIRS6k6dhm/view?usp=drive_link) to the presentation on this project.
